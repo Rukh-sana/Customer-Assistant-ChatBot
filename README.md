@@ -181,8 +181,4 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👩‍💻 Author
-
-Developed by **[Rukh-sana](https://github.com/Rukh-sana)** 🚀
-
 ```
