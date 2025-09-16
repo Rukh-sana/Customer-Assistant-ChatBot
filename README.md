@@ -16,3 +16,21 @@ An **AI-powered Customer Support ChatBot** built with **Streamlit**, **FAISS**, 
 ---
 
 ## 📂 Project Structure
+
+---
+
+
+## ⚙️ Installation
+Clone the repository and create a virtual environment:
+
+```bash
+git clone https://github.com/Rukh-sana/Customer-Assistant-ChatBot.git
+cd Customer-Assistant-ChatBot
+
+# Create virtual environment
+python -m venv .venv
+source .venv/bin/activate   # On Windows: .venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
