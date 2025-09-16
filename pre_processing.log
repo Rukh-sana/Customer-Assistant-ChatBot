@@ -1,0 +1,8 @@
+2025-09-16 22:40:04,976 - INFO - Loaded data from question_bank.json
+2025-09-16 22:40:04,978 - INFO - Preprocessed data into 112 individual questions
+2025-09-16 22:40:04,982 - INFO - Use pytorch device_name: cpu
+2025-09-16 22:40:04,983 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-09-16 22:40:11,927 - INFO - Generated embeddings using all-mpnet-base-v2
+2025-09-16 22:40:11,927 - INFO - FAISS index created and saved to faiss_index.bin
+2025-09-16 22:40:11,933 - INFO - Mapping file saved to index_mapping.json
+2025-09-16 22:40:11,933 - INFO - Preprocessing completed successfully.

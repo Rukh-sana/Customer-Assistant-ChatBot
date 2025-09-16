@@ -1,0 +1,124 @@
+2024-10-27 20:32:42,474 - INFO - GroqClient initialized successfully.
+2024-10-27 20:32:46,398 - INFO - Loaded FAISS index from faiss_index.bin
+2024-10-27 20:32:46,444 - INFO - Loaded mapping from index_mapping.json
+2024-10-27 20:32:46,451 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-10-27 20:32:56,004 - INFO - Use pytorch device: cpu
+2024-10-27 20:32:56,006 - INFO - Initialized SentenceTransformer model: all-mpnet-base-v2
+2024-10-27 20:33:04,968 - INFO - GroqClient initialized successfully.
+2024-10-27 20:33:05,005 - INFO - User input: Hy
+2024-10-27 20:33:05,430 - INFO - Matched intent: trust_concern | scam_inquiry
+2024-10-27 20:33:05,431 - INFO - Bot response: Weï¿½ve been supporting students for over 8 years. Our reputation is built on quality and trust. You can view client testimonials and reviews here: https://www.trustpilot.com/review/hybridresearchcenter.com.
+2024-10-27 20:33:14,352 - INFO - GroqClient initialized successfully.
+2024-10-27 20:33:14,404 - INFO - User input: What is the status of my order
+2024-10-27 20:33:14,407 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:33:23,241 - INFO - GroqClient initialized successfully.
+2024-10-27 20:33:23,276 - INFO - User input: i want a refund because the work you did for me is poor
+2024-10-27 20:33:23,489 - INFO - Matched intent: refund_request | poor_quality_refund
+2024-10-27 20:33:23,490 - INFO - Bot response: Iï¿½m sorry to hear youï¿½re dissatisfied. You can upload your specific feedback directly on the order in the app, and weï¿½ll ensure that the necessary revisions are made to meet your expectations.
+2024-10-27 20:33:31,119 - INFO - GroqClient initialized successfully.
+2024-10-27 20:33:31,158 - INFO - User input: i do not know much about it,  all details are in the assesment brief already. 
+2024-10-27 20:33:31,158 - INFO - Bot response: We have forwarded your concerns to our team and once we get the response, we will revise the work and get back to you.
+2024-10-27 20:36:37,502 - INFO - GroqClient initialized successfully.
+2024-10-27 20:36:47,795 - INFO - GroqClient initialized successfully.
+2024-10-27 20:36:47,831 - INFO - User input: okkkk
+2024-10-27 20:36:47,832 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:36:58,297 - INFO - GroqClient initialized successfully.
+2024-10-27 20:36:58,333 - INFO - User input: yyyy
+2024-10-27 20:36:58,334 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:39:41,540 - INFO - GroqClient initialized successfully.
+2024-10-27 20:39:55,036 - INFO - GroqClient initialized successfully.
+2024-10-27 20:39:55,074 - INFO - User input: ok
+2024-10-27 20:39:55,074 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:40:01,375 - INFO - GroqClient initialized successfully.
+2024-10-27 20:40:01,418 - INFO - User input: gsdg
+2024-10-27 20:40:01,418 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:48:29,838 - INFO - GroqClient initialized successfully.
+2024-10-27 20:48:29,929 - INFO - User input: can u revise y wor
+2024-10-27 20:48:29,930 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:48:35,397 - INFO - GroqClient initialized successfully.
+2024-10-27 20:48:46,678 - INFO - GroqClient initialized successfully.
+2024-10-27 20:48:46,710 - INFO - User input: Can you revise my work
+2024-10-27 20:48:46,876 - INFO - Matched intent: urgent_revision_request | urgent_revision_process
+2024-10-27 20:48:46,877 - INFO - Bot response: Understood. To ensure the quality, we require up to 24 hours to complete the revisions. Please share the specific details with our support team via the app, and weï¿½ll expedite the process.
+2024-10-27 20:48:56,777 - INFO - GroqClient initialized successfully.
+2024-10-27 20:48:56,810 - INFO - User input: .
+2024-10-27 20:48:56,811 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:49:05,062 - INFO - GroqClient initialized successfully.
+2024-10-27 20:49:05,095 - INFO - User input: why ???
+2024-10-27 20:49:05,096 - INFO - Bot response: I'm sorry, something went wrong.
+2025-09-16 22:12:13,425 - INFO - GroqClient initialized successfully.
+2025-09-16 22:12:13,656 - INFO - Loaded FAISS index from faiss_index.bin
+2025-09-16 22:12:13,675 - INFO - Loaded mapping from index_mapping.json
+2025-09-16 22:12:13,682 - INFO - Use pytorch device_name: cpu
+2025-09-16 22:12:13,682 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-09-16 22:12:18,992 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-09-16 22:20:45,846 - INFO - Initialized SentenceTransformer model: all-mpnet-base-v2
+2025-09-16 22:24:45,968 - INFO - GroqClient initialized successfully.
+2025-09-16 22:24:46,173 - INFO - Loaded FAISS index from faiss_index.bin
+2025-09-16 22:24:46,173 - INFO - Loaded mapping from index_mapping.json
+2025-09-16 22:24:46,181 - INFO - Use pytorch device_name: cpu
+2025-09-16 22:24:46,181 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-09-16 22:24:48,597 - INFO - GroqClient initialized successfully.
+2025-09-16 22:24:50,564 - INFO - Initialized SentenceTransformer model: all-mpnet-base-v2
+2025-09-16 22:25:34,943 - INFO - GroqClient initialized successfully.
+2025-09-16 22:25:34,946 - INFO - Uploaded file: {'filename': 'BEST Practices for Hydrogen Station.pdf', 'filetype': 'application/pdf', 'filesize': 1277819}
+2025-09-16 22:25:47,031 - INFO - GroqClient initialized successfully.
+2025-09-16 22:25:47,040 - INFO - User input: what this document is about?
+2025-09-16 22:25:47,193 - INFO - Matched intent: additional_requirements | add_abstract_to_template
+2025-09-16 22:25:47,193 - INFO - Bot response: I’m glad to hear that you’re happy with it so far! If there’s anything else you need or any adjustments you'd like, go on the app and give detailed feedback against your ID. Once you have submitted the feedback, the team will start work on your feedback. Please note that any sort of changes require 24 hours.
+2025-09-16 22:25:47,193 - INFO - Uploaded file: {'filename': 'BEST Practices for Hydrogen Station.pdf', 'filetype': 'application/pdf', 'filesize': 1277819}
+2025-09-16 22:26:35,469 - INFO - GroqClient initialized successfully.
+2025-09-16 22:26:35,472 - INFO - Uploaded file: {'filename': 'EV Charging Station.docx', 'filetype': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'filesize': 88822}
+2025-09-16 22:26:54,651 - INFO - GroqClient initialized successfully.
+2025-09-16 22:26:54,663 - INFO - User input: what is called a charging station?
+2025-09-16 22:26:54,663 - INFO - Bot response: I'm sorry, something went wrong.
+2025-09-16 22:26:54,669 - INFO - Uploaded file: {'filename': 'EV Charging Station.docx', 'filetype': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'filesize': 88822}
+2025-09-16 22:27:20,675 - INFO - GroqClient initialized successfully.
+2025-09-16 22:27:20,685 - INFO - User input: hello
+2025-09-16 22:27:20,753 - INFO - Matched intent: general_greeting | greeting_check
+2025-09-16 22:27:20,753 - INFO - Bot response: Hi yes, I’m here! How can I assist you today?
+2025-09-16 22:27:20,755 - INFO - Uploaded file: {'filename': 'EV Charging Station.docx', 'filetype': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'filesize': 88822}
+2025-09-16 22:27:33,649 - INFO - GroqClient initialized successfully.
+2025-09-16 22:27:33,664 - INFO - User input: what is ecommerece?
+2025-09-16 22:27:33,664 - INFO - Bot response: I'm sorry, something went wrong.
+2025-09-16 22:27:33,664 - INFO - Uploaded file: {'filename': 'EV Charging Station.docx', 'filetype': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'filesize': 88822}
+2025-09-16 22:27:50,453 - INFO - GroqClient initialized successfully.
+2025-09-16 22:28:23,971 - INFO - GroqClient initialized successfully.
+2025-09-16 22:28:23,980 - INFO - User input: wI want to buy face mask how can you help me?
+2025-09-16 22:28:24,049 - INFO - Matched intent: referral_inquiry | friend_referral
+2025-09-16 22:28:24,049 - INFO - Bot response: That's great to hear. May I know the name of your friend and his/her number as well?
+2025-09-16 22:29:14,246 - INFO - GroqClient initialized successfully.
+2025-09-16 22:29:14,256 - INFO - User input: hello
+2025-09-16 22:29:14,256 - INFO - Bot response: I'm sorry, something went wrong.
+2025-09-16 22:29:42,393 - INFO - GroqClient initialized successfully.
+2025-09-16 22:29:42,404 - INFO - User input: i want to buy for myself
+2025-09-16 22:29:42,404 - INFO - Bot response: I'm sorry, something went wrong.
+2025-09-16 22:35:49,848 - INFO - GroqClient initialized successfully.
+2025-09-16 22:35:49,855 - INFO - User input: what products do you offer?
+2025-09-16 22:35:49,863 - INFO - Bot response: I'm sorry, something went wrong.
+2025-09-16 22:36:28,908 - INFO - GroqClient initialized successfully.
+2025-09-16 22:36:28,916 - INFO - User input: what do you offer?
+2025-09-16 22:36:28,981 - INFO - Matched intent: price_complaint | price_too_high
+2025-09-16 22:36:28,984 - INFO - Bot response: We understand the price might seem high, especially given the task's complexity. However, our rates reflect the expert-level work we provide, including revisions and thorough plagiarism checks.
+2025-09-16 22:40:42,350 - INFO - GroqClient initialized successfully.
+2025-09-16 22:40:42,585 - INFO - Loaded FAISS index from faiss_index.bin
+2025-09-16 22:40:42,611 - INFO - Loaded mapping from index_mapping.json
+2025-09-16 22:40:42,617 - INFO - Use pytorch device_name: cpu
+2025-09-16 22:40:42,617 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-09-16 22:40:48,011 - INFO - Initialized SentenceTransformer model: all-mpnet-base-v2
+2025-09-16 22:45:39,766 - INFO - GroqClient initialized successfully.
+2025-09-16 22:45:39,992 - INFO - Loaded FAISS index from faiss_index.bin
+2025-09-16 22:45:39,995 - INFO - Loaded mapping from index_mapping.json
+2025-09-16 22:45:39,998 - INFO - Use pytorch device_name: cpu
+2025-09-16 22:45:39,998 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-09-16 22:45:44,992 - INFO - Initialized SentenceTransformer model: all-mpnet-base-v2
+2025-09-16 22:46:11,951 - INFO - GroqClient initialized successfully.
+2025-09-16 22:46:11,959 - INFO - User input: what services do you offer?
+2025-09-16 22:46:12,153 - INFO - Matched intent: thesis_help_request | thesis_process_fee
+2025-09-16 22:46:12,153 - INFO - Bot response: We offer complete thesis support, including research and writing, with pricing based on word count, complexity of the topic, and deadline. We work on your thesis chapter by chapter, allowing you to review and provide feedback at each stage.
+2025-09-16 22:48:22,579 - INFO - GroqClient initialized successfully.
+2025-09-16 22:48:22,580 - INFO - User input: hello
+2025-09-16 22:48:22,580 - INFO - Bot response: I'm sorry, something went wrong.
+2025-09-16 22:49:02,993 - INFO - GroqClient initialized successfully.
+2025-09-16 22:49:02,997 - INFO - User input: you provide support on selling items?
+2025-09-16 22:49:03,001 - INFO - Bot response: I'm sorry, something went wrong.

@@ -1,0 +1,48 @@
+2024-10-27 20:32:42,474 - INFO - GroqClient initialized successfully.
+2024-10-27 20:32:46,398 - INFO - Loaded FAISS index from faiss_index.bin
+2024-10-27 20:32:46,444 - INFO - Loaded mapping from index_mapping.json
+2024-10-27 20:32:46,451 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-10-27 20:32:56,004 - INFO - Use pytorch device: cpu
+2024-10-27 20:32:56,006 - INFO - Initialized SentenceTransformer model: all-mpnet-base-v2
+2024-10-27 20:33:04,968 - INFO - GroqClient initialized successfully.
+2024-10-27 20:33:05,005 - INFO - User input: Hy
+2024-10-27 20:33:05,430 - INFO - Matched intent: trust_concern | scam_inquiry
+2024-10-27 20:33:05,431 - INFO - Bot response: We�ve been supporting students for over 8 years. Our reputation is built on quality and trust. You can view client testimonials and reviews here: https://www.trustpilot.com/review/hybridresearchcenter.com.
+2024-10-27 20:33:14,352 - INFO - GroqClient initialized successfully.
+2024-10-27 20:33:14,404 - INFO - User input: What is the status of my order
+2024-10-27 20:33:14,407 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:33:23,241 - INFO - GroqClient initialized successfully.
+2024-10-27 20:33:23,276 - INFO - User input: i want a refund because the work you did for me is poor
+2024-10-27 20:33:23,489 - INFO - Matched intent: refund_request | poor_quality_refund
+2024-10-27 20:33:23,490 - INFO - Bot response: I�m sorry to hear you�re dissatisfied. You can upload your specific feedback directly on the order in the app, and we�ll ensure that the necessary revisions are made to meet your expectations.
+2024-10-27 20:33:31,119 - INFO - GroqClient initialized successfully.
+2024-10-27 20:33:31,158 - INFO - User input: i do not know much about it,  all details are in the assesment brief already. 
+2024-10-27 20:33:31,158 - INFO - Bot response: We have forwarded your concerns to our team and once we get the response, we will revise the work and get back to you.
+2024-10-27 20:36:37,502 - INFO - GroqClient initialized successfully.
+2024-10-27 20:36:47,795 - INFO - GroqClient initialized successfully.
+2024-10-27 20:36:47,831 - INFO - User input: okkkk
+2024-10-27 20:36:47,832 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:36:58,297 - INFO - GroqClient initialized successfully.
+2024-10-27 20:36:58,333 - INFO - User input: yyyy
+2024-10-27 20:36:58,334 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:39:41,540 - INFO - GroqClient initialized successfully.
+2024-10-27 20:39:55,036 - INFO - GroqClient initialized successfully.
+2024-10-27 20:39:55,074 - INFO - User input: ok
+2024-10-27 20:39:55,074 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:40:01,375 - INFO - GroqClient initialized successfully.
+2024-10-27 20:40:01,418 - INFO - User input: gsdg
+2024-10-27 20:40:01,418 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:48:29,838 - INFO - GroqClient initialized successfully.
+2024-10-27 20:48:29,929 - INFO - User input: can u revise y wor
+2024-10-27 20:48:29,930 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:48:35,397 - INFO - GroqClient initialized successfully.
+2024-10-27 20:48:46,678 - INFO - GroqClient initialized successfully.
+2024-10-27 20:48:46,710 - INFO - User input: Can you revise my work
+2024-10-27 20:48:46,876 - INFO - Matched intent: urgent_revision_request | urgent_revision_process
+2024-10-27 20:48:46,877 - INFO - Bot response: Understood. To ensure the quality, we require up to 24 hours to complete the revisions. Please share the specific details with our support team via the app, and we�ll expedite the process.
+2024-10-27 20:48:56,777 - INFO - GroqClient initialized successfully.
+2024-10-27 20:48:56,810 - INFO - User input: .
+2024-10-27 20:48:56,811 - INFO - Bot response: I'm sorry, something went wrong.
+2024-10-27 20:49:05,062 - INFO - GroqClient initialized successfully.
+2024-10-27 20:49:05,095 - INFO - User input: why ???
+2024-10-27 20:49:05,096 - INFO - Bot response: I'm sorry, something went wrong.
