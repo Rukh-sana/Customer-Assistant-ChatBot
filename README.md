@@ -26,6 +26,7 @@ Chatbot/
 │── chatbot_debug.log # Debug logs
 │── .github/workflows/ # CI/CD workflows
 
+---
 
 
 ## ⚙️ Installation
@@ -43,6 +44,7 @@ source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
 ---
+
 ## ▶️ Usage
 
 Run the chatbot locally:
