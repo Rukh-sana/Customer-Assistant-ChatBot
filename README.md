@@ -16,16 +16,9 @@ An **AI-powered Customer Support ChatBot** built with **Streamlit**, **FAISS**, 
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure
 
----
-Chatbot/
-│── main.py # Streamlit app entry point
-│── groq_integration.py # Groq API integration
-│── faiss_index.bin # FAISS vector index
-│── persona.json # Bot personality configuration
-│── question_bank.json # Predefined Q&A pairs
-│── chatbot_debug.log # Debug logs
-│── .github/workflows/ # CI/CD workflows
+
 
 ## ⚙️ Installation
 Clone the repository and create a virtual environment:
